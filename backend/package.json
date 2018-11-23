@@ -33,7 +33,6 @@
     "cors": "^2.7.1",
     "express": "^4.13.3",
     "morgan": "^1.8.0",
-    "reactstrap": "^6.5.0",
     "resource-router-middleware": "^0.6.0"
   },
   "devDependencies": {
