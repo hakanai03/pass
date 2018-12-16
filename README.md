@@ -5,9 +5,9 @@ todo
 please read following document too.
 https://qiita.com/mascii/items/ec79ad5a7026f771d181
 
-'''bash
+```bash
 sudo apt-get install python-usb python-pip -y
-'''
+```
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
