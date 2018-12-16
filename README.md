@@ -1,3 +1,15 @@
+## What's this?
+todo
+
+## Installation
+please read following document too.
+https://qiita.com/mascii/items/ec79ad5a7026f771d181
+
+'''bash
+sudo apt-get install python-usb python-pip -y
+'''
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
